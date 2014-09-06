@@ -1,4 +1,4 @@
-## PublicDataReleaseCalendar
+## U.S. Public Dataset Release Calendar (curated)
 =========================
 
 A work-in-progress, comprehensive schedule of regularly scheduled and released datesets from various federal and state entities, so that journalists/researchers can stay on top of latest available data dumps and analyize them in a timely manner. Kind of like the U.K.'s (Office for National Statistics)[http://www.ons.gov.uk/ons/release-calendar/index.html?&newquery=*&releaseDateRangeType=next12months&pageSize=50&applyFilters=true&sortBy=releaseDate&sortDirection=ASCENDING], but for the U.S.
