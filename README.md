@@ -7,3 +7,5 @@ Contributions welcomed and encouraged on a by-department/government entity basis
 
 + iCal, RSS feeds or public Google Calendar URLs are preferred format, but lists also work.
 + Schedules will be available in this repo in all formats for donwload once enough have been gathered.
+
+Queries? Concerns? Suggestions? (Email me)[mailto: carl@carlvlewis.net]
